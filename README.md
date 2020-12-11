@@ -11,6 +11,7 @@ Example: Feint - Signs - 91899970
 If they are not, you must redownload them all MANUALLY. Before that set the template for your future song downloads https://imgur.com/a/VhrnDRQ.
 
 RUNNING IT
+
 On the computer with your downloaded songs:
 1. change C:\My files\Music in line 15 to your deemix download directory in Get list of songs from storage.ahk 
 2. Run Get list of songs from storage.ahk
