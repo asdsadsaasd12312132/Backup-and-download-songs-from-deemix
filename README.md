@@ -20,6 +20,6 @@ On the computer to download your songs to:
 1. Make a copy of the text file showing your total number of songs
 2. Launch deemix
 3. Run Download all songs.ahk
-3. Once all the songs are downloaded, run Get list of songs from storage and check if the total number of songs are the same, meaning all songs were properly downloaded
+3. Once all the songs are downloaded, run Get list of songs from storage.ahk and check if the total number of songs are the same, meaning all songs were properly downloaded
 
-Example of script downloading 168 songs.
+Example of script downloading 168 songs https://youtu.be/UAVua3ox8ko.
