@@ -8,7 +8,7 @@ REQUIRED SETUP
 
 Example: Feint - Signs - 91899970
 
-If they are not, you must redownload them all MANUALLY. Before that set the template for your future song downloads https://imgur.com/a/VhrnDRQ.
+If they are not, you must redownload or rename them all manually. Before that set the template for your future song downloads https://imgur.com/a/VhrnDRQ.
 
 RUNNING IT
 
