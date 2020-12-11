@@ -2,7 +2,8 @@
 
 REQUIRED SETUP
 1. install AHK https://www.autohotkey.com/
-2. ll the songs you currently have downloaded MUST be in this format (if you want to change it, modify the code yourself): %artist% - %title% - %track_id%
+2. all the songs you currently have downloaded MUST be in this format (if you want to change it, modify the code yourself): 
+%artist% - %title% - %track_id%
 
 Example: Feint - Signs - 91899970
 
