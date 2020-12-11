@@ -1,4 +1,4 @@
-# Download-backedup-songs-from-deemix
+# Backup-and-download-songs-from-deemix
 
 REQUIRED SETUP
 1. install AHK https://www.autohotkey.com/
