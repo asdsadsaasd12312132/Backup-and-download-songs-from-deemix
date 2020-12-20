@@ -43,6 +43,7 @@ The other parameters sort, include_deemix_links, and Music_collection_directory 
 On the computer with your downloaded songs:
 1.	configure the parameters in Back up songs.ahk as needed; "include_deemix_links" must be set to true 
 2.	run Back up songs.ahk
+
 On the computer to download your songs to:
 1.	launch deemix
 2.	run Download songs.ahk and follow the instructions from the prompts
