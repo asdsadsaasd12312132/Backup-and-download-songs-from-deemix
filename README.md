@@ -44,10 +44,8 @@ On the computer with your downloaded songs:
 1.	configure the parameters in Back up songs.ahk as needed; "include_deemix_links" must be set to true 
 2.	run Back up songs.ahk
 On the computer to download your songs to:
-1.	make a copy of the text file showing your total number of songs
-2.	launch deemix
-3.	run Download songs.ahk
-4.	once all the songs are downloaded, run Back up songs.ahk and check if the total number of songs are the same to verify if all songs were downloaded. If not, adjust the sleep time in the loop in Download songs.ahk (line 23) from 25 to 100 and re-run Download songs.ahk.
+1.	launch deemix
+2.	run Download songs.ahk and follow the instructions from the prompts
 
 ## FINDING SONGS ON MUSIC STREAMING AND DOWNLOAD SITES
 The format song name - artists - album will successfully find almost all songs. If it fails, first try deleting the hyphens that separate the tags (" -"). This is usually required on Spotify. If it still fails, try deleting anything in brackets for the song name, e.g. from
